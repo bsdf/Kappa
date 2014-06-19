@@ -575,3 +575,10 @@ body .sender[mtype*=normal][colornumber='30'],
 body .inline_nickname[colornumber='30'] { 
 	color: #08465f;
 }
+
+.Kappa {
+    margin: -5px 0px;
+	display: inline-block;
+	padding-right: 8px !important;
+	background-repeat: no-repeat;
+}

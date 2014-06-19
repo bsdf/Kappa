@@ -1,5 +1,4 @@
-By Alex Sørlie (alex@delexious.com)
+by bsdf (EMAILBEN145@gmail.com)
 
-This style is a modified and stripped down version of 
-the "Simplified" theme developed by "Cowboy" Ben Alman
-(http://benalman.com/). Copyright © 2010, 2011, 2012.
+this is a modified version of Lucidity by alex sørlie which in turn is a
+modified version of Simplified by ben alman (benalman.com)
